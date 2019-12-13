@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">api_andro</string>
+    <string name="no">no</string>
+    <string name="name">name</string>
+    <string name="position">position</string>
+    <string name="birth_date">Birth date</string>
+    <string name="alsmakns">alsmakns</string>
+    <string name="nando_akbar_johansyah_n12_rpl_1">Nando akbar johansyah 12 RPL 1</string>
+    <string name="description">Description</string>
+    <string name="image">Image</string>
+    <string name="price">Price</string>
+    <string name="kategori">Kategori</string>
+</resources>
